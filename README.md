@@ -1,4 +1,4 @@
-# Pima Indians Diabetes — Diabetes Prediction
+# Pima Indians — Diabetes Prediction
 
 A Machine Learning notebook that trains a classifier to predict diabetes from the Pima Indians dataset.
 
